@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.exe.config
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.exe
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.pdb
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.FrmFormulario.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.Properties.Resources.resources
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.exe
+C:\Users\user\Desktop\PROYECTOS DE VISUAL 2019\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.pdb
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.exe.config
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.exe
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\bin\Debug\EjemploGrupo1.pdb
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csprojAssemblyReference.cache
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.FrmFormulario.resources
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.Properties.Resources.resources
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csproj.GenerateResource.cache
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.exe
+C:\Users\carlj\Downloads\Programación\EjemploGrupo1\EjemploGrupo1\obj\Debug\EjemploGrupo1.pdb
